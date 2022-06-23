@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João Seixas</h1>
-<h3 align="center">A developer passionate about technology</h3>
+
 
 - 🔭 I’m currently working on [physiocare_backend](https://github.com/joaoseixas88/physiocare_backend)
 
