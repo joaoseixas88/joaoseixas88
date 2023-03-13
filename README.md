@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [physiocare_backend](https://github.com/joaoseixas88/physiocare_backend)
 
-- 🌱 I’m currently learning **NestJS**
+- 🌱 I’m currently learning **Go Lang**
 
 - 📫 How to reach me **joaoseixas88@gmail.com**
 
