@@ -90,7 +90,7 @@ Utility library for Brazilian developers: CPF/CNPJ generation and validation, ch
 ## GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoseixas88&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoseixas88&layout=compact&hide_border=true&langs_count=8&theme=transparent&size_weight=0.5&count_weight=0.5" alt="Most Used Languages" />
 </p>
 
 ## Let's Connect
